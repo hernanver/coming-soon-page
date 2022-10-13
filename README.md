@@ -29,12 +29,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+<img width="849" alt="Captura de Pantalla 2022-10-13 a la(s) 05 26 21" src="https://user-images.githubusercontent.com/99434648/195544286-dac8db9a-a9d1-4572-8649-77dbdcc93fca.png">
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/hernanver/coming-soon-page)
+- Live Site URL: [Liv Site](https://your-live-site-url.com)
 
 ## My process
 
@@ -51,7 +52,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Hernan Verzini](https://www.hernanverzini.pythonanywhere.com)
 
-- GitHub - [@hernanver](https://www.twitter.com/yourusername)
+- GitHub - [hernanver](https://github.com/hernanver)
 
