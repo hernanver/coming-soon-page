@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/hernanver/coming-soon-page)
-- Live Site URL: [Liv Site](hv-coming-soon.netlify.app)
+- Live Site URL: [Liv Site](https://hv-coming-soon.netlify.app)
 
 ## My process
 
