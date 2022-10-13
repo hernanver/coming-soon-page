@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600;700&display=swap');
+
+
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+
+
+:root{
+    --blue : hsl(223, 87%, 63%);
+    --pale-blue :hsl(223, 100%, 88%);
+    --red:hsl(354, 100%, 66%);
+    --gray:hsl(0, 0%, 59%);
+    --dark-blue: hsl(209, 33%, 12%);
+}
+
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.texto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding:1.8rem;
+    
+}
+.titulo{
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-between;
+    padding-bottom: 0.5rem;
+}
+
+.texto-title{
+    color:var(--gray);
+    margin-right: 10px;
+    
+}
+.texto .soon{
+    font-weight: bold;
+}
+.texto h4{
+    color: var(--dark-blue);
+    font-weight: lighter;
+    font-size:0.8rem;
+    margin:0;
+}
+.logo{
+    width: 56px;
+    height: 17px;
+}
+.imagen{
+    width: 450px;
+    height: 350px;
+    justify-items: center;
+    padding:1rem;
+}
+
+.footer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer ul{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer ul li{
+    list-style-type: none;
+    padding:0.8rem;
+    color:var(--blue);
+    cursor:pointer;
+    border:0.5px solid var(--gray);
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border-color:var(--gray) ;
+    margin-right: 5px;
+}
+.footer ul li i{
+    
+margin-right: 1rem;
+  
+    
+}
+.footer h5{
+    color:var(--gray);
+    font-weight: lighter;
+}
+
+.btn{
+    background-color: var(--blue);
+    border-radius: 30px;
+    border: none;
+    padding: 0.8rem 2.6rem;
+    font-size: 12px;
+    color:white;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    
+}
+.btn:hover{
+
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.mensaje{
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.mensaje input{
+    border-radius: 30px;
+    border: 1px solid hsl(0, 0%, 93%);
+    padding-left: 6px;
+    width: 64%;
+   
+}
+
+.mensaje input::placeholder{
+    color: hsl(223, 100%, 88%);
+}
+
+.mensaje input::after{
+    content: '';
+    color:var(--red);
+    display:inline-block;
+    font-style: italic;
+    font-size: x-small;
+    margin: 10px 20px;
+}
+
+
