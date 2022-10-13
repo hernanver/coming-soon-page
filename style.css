@@ -156,12 +156,13 @@ margin-right: 1rem;
 
 form small{
 color: var(--red);
-display:inline-block;
+
 font-style: italic;
 z-index:100;
 left:10px;
 top:40px;
 position:absolute;
+display:none;
 }
 
 @media screen and (max-width: 650px){
